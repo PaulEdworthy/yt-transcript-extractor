@@ -1,0 +1,4 @@
+1679703123092	geckodriver	INFO	Listening on 127.0.0.1:40427
+1679703123101	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "47511" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileViQZ89"
+1679703603043	geckodriver	INFO	Listening on 127.0.0.1:39225
+1679703603047	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevZgSVW"
